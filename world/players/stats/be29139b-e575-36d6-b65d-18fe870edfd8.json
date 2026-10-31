@@ -1,0 +1,51 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:grass_block": 10,
+      "minecraft:sand": 2,
+      "minecraft:repeater": 453,
+      "minecraft:lever": 39,
+      "minecraft:white_concrete": 2252,
+      "minecraft:stone_button": 3,
+      "minecraft:redstone": 2203,
+      "minecraft:white_stained_glass": 2700,
+      "minecraft:firework_rocket": 84,
+      "minecraft:oak_log": 6,
+      "minecraft:black_concrete": 258,
+      "minecraft:structure_block": 49,
+      "minecraft:comparator": 15,
+      "minecraft:redstone_lamp": 158,
+      "minecraft:redstone_torch": 593,
+      "minecraft:target": 145,
+      "minecraft:black_terracotta": 2,
+      "minecraft:barrel": 13,
+      "minecraft:black_stained_glass": 1
+    },
+    "minecraft:dropped": {
+      "minecraft:redstone": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:redstone_torch": 14,
+      "minecraft:lever": 5,
+      "minecraft:redstone": 191,
+      "minecraft:repeater": 18
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 2002742,
+      "minecraft:walk_one_cm": 181831,
+      "minecraft:leave_game": 39,
+      "minecraft:play_time": 2002742,
+      "minecraft:jump": 459,
+      "minecraft:time_since_death": 2002742,
+      "minecraft:aviate_one_cm": 876914,
+      "minecraft:drop": 1,
+      "minecraft:open_barrel": 26,
+      "minecraft:sprint_one_cm": 11041,
+      "minecraft:total_world_time": 2002742,
+      "minecraft:fly_one_cm": 6166396,
+      "minecraft:crouch_one_cm": 708,
+      "minecraft:sneak_time": 35413
+    }
+  },
+  "DataVersion": 4790
+}
